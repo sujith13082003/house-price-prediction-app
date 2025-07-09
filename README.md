@@ -2,6 +2,8 @@
 
 This project is a machine learning-based web application that predicts the **selling price of houses** based on various input features like area, number of bedrooms, garage capacity, and year built. It is built using the **Kaggle House Prices - Advanced Regression Techniques** dataset and deployed via **Streamlit**.
 
+# Click on the below link to access the streamlit web app
+https://house-price-prediction-app-2wkvzjprdgx4hjhhtrwiqu.streamlit.app/
 
 ## Dataset Source
 
